@@ -1,0 +1,67 @@
+# --- SCAM & PREDATORY JOBS SITES ---
+# These sites charge fees, fake jobs, or exist only to steal data.
+0.0.0.0 bebee.com
+0.0.0.0 us.bebee.com
+0.0.0.0 drjob.pro
+0.0.0.0 digitalhire.com
+0.0.0.0 job-applications.com
+0.0.0.0 application.careers
+0.0.0.0 jobhat.com
+0.0.0.0 geebo.com
+0.0.0.0 jobcase.com
+0.0.0.0 lensa.com
+0.0.0.0 joblift.com
+0.0.0.0 recruit.net
+0.0.0.0 neuvoo.com
+0.0.0.0 talent.com
+0.0.0.0 jobisjob.com
+0.0.0.0 jooble.org
+0.0.0.0 adzuna.com
+0.0.0.0 careerjet.com
+0.0.0.0 jobrapido.com
+0.0.0.0 trovit.com
+0.0.0.0 postjobfree.com
+0.0.0.0 clark.com
+0.0.0.0 everyjobforme.com
+0.0.0.0 jobs-near-me.com
+0.0.0.0 us-jobs.com
+
+# --- THE "AGGREGATOR LOOPS" ---
+# These sites just bounce you to other sites to generate ad revenue.
+# Blocking these stops the "Apply -> Redirect -> Redirect" madness.
+0.0.0.0 startwire.com
+0.0.0.0 myjobhelper.com
+0.0.0.0 ziprecruiter.com
+0.0.0.0 careerbuilder.com
+0.0.0.0 monster.com
+0.0.0.0 simplyhired.com
+0.0.0.0 snagajob.com
+0.0.0.0 linkup.com
+0.0.0.0 zark.com
+0.0.0.0 muse.com
+0.0.0.0 themuse.com
+0.0.0.0 job.com
+
+# --- RESUME FARMS & "REVIEW" TRAPS ---
+# Sites that pretend to be job boards but sell resume writing services.
+0.0.0.0 resume-now.com
+0.0.0.0 livecareer.com
+0.0.0.0 myperfectresume.com
+0.0.0.0 resumehelp.com
+0.0.0.0 zety.com
+0.0.0.0 novoresume.com
+0.0.0.0 kickresume.com
+0.0.0.0 resumegenius.com
+0.0.0.0 jobhero.com
+0.0.0.0 resumelab.com
+
+# --- HIGH-RISK / LOW-QUALITY ---
+# Often contain legitimate jobs but heavily mixed with spam/scams.
+# Comment these out with (#) if you really need them.
+0.0.0.0 upwork.com
+0.0.0.0 fiverr.com
+0.0.0.0 freelancer.com
+0.0.0.0 guru.com
+0.0.0.0 peopleperhour.com
+0.0.0.0 www.drjobpro.com
+0.0.0.0 www.learn4good.com
