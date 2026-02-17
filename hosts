@@ -65,4 +65,6 @@
 0.0.0.0 peopleperhour.com
 0.0.0.0 www.drjobpro.com
 0.0.0.0 www.learn4good.com
+0.0.0.0 www.glassdoor.com
+# --- Other Websites to block ---
 0.0.0.0 https://yt1ss.net
