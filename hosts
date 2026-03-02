@@ -122,6 +122,10 @@
 0.0.0.0 glassdoor.com
 0.0.0.0 www.glassdoor.com
 0.0.0.0 jobright.ai
+0.0.0.0 app.joinrunway.io
+0.0.0.0 www.internshipshq.com
+0.0.0.0 internshipshq.com
+
 
 # --- Other Websites to block ---
 0.0.0.0 yt1ss.net
