@@ -58,8 +58,8 @@
 0.0.0.0 www.startwire.com
 0.0.0.0 myjobhelper.com
 0.0.0.0 www.myjobhelper.com
-0.0.0.0 ziprecruiter.com
-0.0.0.0 www.ziprecruiter.com
+#0.0.0.0 ziprecruiter.com
+#0.0.0.0 www.ziprecruiter.com
 0.0.0.0 careerbuilder.com
 0.0.0.0 www.careerbuilder.com
 0.0.0.0 monster.com
